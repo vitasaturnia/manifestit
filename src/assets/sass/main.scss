@@ -1,0 +1,107 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/vendor';
+@import 'libs/breakpoints';
+@import 'libs/html-grid';
+@import 'font-awesome.min.css';
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900');
+
+
+// Breakpoints.
+
+	@include breakpoints((
+		xlarge:   ( 1281px,  1680px ),
+		large:    ( 981px,   1280px ),
+		medium:   ( 737px,   980px  ),
+		small:    ( 481px,   736px  ),
+		xsmall:   ( 361px,   480px  ),
+		xxsmall:  ( null,    360px  )
+	));
+
+// Bulma
+
+@import "~bulma/bulma.sass";
+
+
+// Base.
+
+	@import 'base/reset';
+	@import 'base/page';
+	@import 'base/typography';
+
+// Component.
+
+	@import 'components/row';
+	@import 'components/section';
+	@import 'components/icon';
+	@import 'components/list';
+	@import 'components/actions';
+	@import 'components/icons';
+	@import 'components/form';
+	@import 'components/box';
+	@import 'components/image';
+	@import 'components/table';
+	@import 'components/button';
+	@import 'components/tiles';
+
+// Layout.
+
+	
+	@import 'layout/main';
+	@import 'layout/footer';
+	@import 'layout/wrapper';
+
+// Navbar
+
+.navbar .navbar-menu{
+  box-shadow:none !important 
+}
+  .navbar-item .icon{
+  color: $primary
+}
+  .navbar-brand .navbar-item.logo{
+  padding: 0 1rem
+}
+.navbar-links{
+  float: none;
+  display: absolute;
+  width: 100%;
+  align-content: center;
+  text-align: center;
+  border-bottom: none;
+}
+
+a{border-bottom: none;}
+
+.navbar-item{
+display: inline-block;
+border-bottom: none;
+}
+
+
+
+.mainheader{
+display: block;
+	margin-top:0;
+}
+
+.bigtext{
+	text-align: center;
+	margin-top: 5%;
+
+}
+
+.center{
+	display: flex;
+align-content: center;
+align-items: center;
+}
+
+
+
+.logoimage{
+	width:: 5%;
+	align-content: center;
+}
+
