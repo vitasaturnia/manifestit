@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
-import FaLaptop  from 'react-icons/fa';
+import { FaLaptop }  from 'react-icons/fa';
 
 
 const Hardware = () => (
