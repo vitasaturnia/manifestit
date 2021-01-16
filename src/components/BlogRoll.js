@@ -1,8 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Link from 'gatsby'
-import graphql from 'gatsby'
-import StaticQuery from 'gatsby'
+import { Link, graphql, StaticQuery } from 'gatsby'
+import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 class BlogRoll extends React.Component {
   render() {
@@ -22,7 +21,12 @@ class BlogRoll extends React.Component {
                 <header>
                   {post.frontmatter.featuredimage ? (
                     <div className="featured-thumbnail">
-                 
+                      <PreviewCompatibleImage
+                        imageInfo={{
+                          image: post.frontmatter.featuredimage,
+                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                        }}
+                      />
                     </div>
                   ) : null}
                   <p className="post-meta">

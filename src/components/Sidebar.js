@@ -52,8 +52,6 @@ const Navbar = class extends React.Component {
 
 
     <Link className="navbar-item" to="/#footer">Contact</Link>
-
-
         </div>
 </div>
 </div>
