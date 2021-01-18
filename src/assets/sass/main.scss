@@ -105,3 +105,47 @@ align-items: center;
 	align-content: center;
 }
 
+
+// newsletter
+
+#newsletter .input, #newsletter .textarea {
+	border-color: #fff;
+	box-shadow: none;
+  }
+
+  .svg-inline{
+display: inline;
+
+  }
+
+
+  .label{
+	  margin-right: 0;
+	  margin-bottom: 0;
+float: right;
+display: inline;
+
+  }
+
+  .copright{
+	  margin-bottom: 0;
+	  margin-left: 0;
+  }
+
+ 
+
+// blog roll
+.blog-list-item.is-featured{
+background-color: #d6400033;}
+.blog-list-item header{
+display: flex;
+margin-bottom: 1em;}
+.blog-list-item .featured-thumbnail{
+flex-basis: 35%;
+margin: 0 1.5em 0 0;
+
+}
+
+.copyright{
+	margin-bottom: 0;
+}

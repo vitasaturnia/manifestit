@@ -68,12 +68,7 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: 'gatsby-plugin-netlify-cms',
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
+   
     {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
@@ -94,6 +89,12 @@ module.exports = {
         theme_color: config.manifestThemeColor,
         display: config.manifestDisplay,
         icon: config.manifestIcon, // This path is relative to the root of the site.
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-netlify-cms',
+      options: {
+        modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
     
