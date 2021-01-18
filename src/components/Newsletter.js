@@ -46,6 +46,8 @@ export default function Newsletter() {
 
 <div className="column has-text-centered ">
 <h2>Social media</h2>
+<p className="subtitle is-4 has-text-grey-light">Volg ons op social media!</p>
+
 
 <div className="container">
 
