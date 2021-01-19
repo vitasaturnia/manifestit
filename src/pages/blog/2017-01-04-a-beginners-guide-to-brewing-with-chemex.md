@@ -8,7 +8,9 @@ description: In deze tijd is de drempel naar het ondernemerschap steeds lager,
 featuredpost: false
 featuredimage: /img/bedrijf-laten-groeien.jpg
 tags:
-  - brewing
-  - chemex
+  - Bedrijf
+  - Marketing
+  - Ondernemerschap
+  - Website
 ---
-..
+.....
