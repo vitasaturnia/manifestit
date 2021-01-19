@@ -22,11 +22,7 @@ module.exports = {
       name: 'Instagram',
       url: 'https://instagram.com/ManifestITOfficial',
     },
-    {
-      icon: 'fa-whatsapp',
-      name: 'Whatsapp',
-      url: 'https://wa.me/310630948548',
-    },
-
+  
+    
   ],
 };
