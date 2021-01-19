@@ -13,8 +13,6 @@ tags:
   - Ondernemerschap
   - Website
 ---
-![](/img/growing-your-business.jpg)
-
-
+![](/img/grow-your-company-better-and-faster-with-sap-business-bydesign-webinar.jpg)
 
 .....
