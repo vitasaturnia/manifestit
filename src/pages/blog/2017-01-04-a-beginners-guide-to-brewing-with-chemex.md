@@ -2,11 +2,9 @@
 templateKey: blog-post
 title: Manieren om uw bedrijf te laten groeien
 date: 2017-01-04T15:04:10.000Z
-description: Een website is meer dan alleen een online representatie van uw
-  bedrijf. Een website verbind u met de klant, en een goede website stelt u in
-  staat om meer klanten te werven, en het contact met uw huidige klanten te
-  verbeteren. In dit artikel hebben we het over de redenen die een goede website
-  zo belangrijk maken.
+description: In deze tijd is de drempel naar het ondernemerschap steeds lager,
+  en zijn er steeds meer manieren om uw bedrijf te laten groeien. In dit artikel
+  bespreken wij een aantal goede manieren die u hiervoor kunt gebruiken.
 featuredpost: false
 featuredimage: /img/bedrijf-laten-groeien.jpg
 tags:
