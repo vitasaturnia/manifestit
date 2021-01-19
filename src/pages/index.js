@@ -26,7 +26,7 @@ const IndexPage = () => (
 
     In dit digitale tijdperk waarin we leven zijn de mogelijkheden letterlijk eindeloos, en is de drempel naar succes lager dan ooit tevoren. Heeft u het gouden idee? Maar niet de technische kennis om dit uit te voeren op de manier die uw idee verdient? Dan heeft u gevonden waarnaar u zocht.
 Ons team van experts bestaat uit ervaren specialisten op het gebied van webdevelopment, design, marketing en SEO.
-Wij bieden een volledige realisatie van uw project, van het ontwikkelen van uw droomwebsite, optimaliseren van uw website voor zoekmachimes, het opzetten van de juiste marketing campagnes, tot aan de branding en het design en drukwerk. Ook bieden wij hosting en website beheer aan in gemakkelijke maandelijkse paketten.
+Wij bieden een volledige realisatie van uw project, van het ontwikkelen van uw droomwebsite, optimaliseren van uw website voor zoekmachimes, het opzetten van de juiste marketing campagnes, tot aan de branding en het design. Ook bieden wij hosting en website beheer aan in gemakkelijke maandelijkse paketten.
 </p>
 </header>
 <div className="bigtext"> <h1 id="services">Onze services</h1> </div>
