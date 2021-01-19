@@ -16,7 +16,7 @@ export default function Newsletter() {
 
   <div className="columns is-vcentered has-text-centered">
   
-<form action="https://mail.jgthms.com/subscribe" method="POST" accept-charset="utf-8" className="has-text-centered">
+<form data-netlify="true" method="POST" accept-charset="utf-8" className="has-text-centered">
   <div class="field is-grouped">
     <div class="control has-icons-left is-expanded">
       <input type="email" value="" name="email" class="input is-medium is-flat" placeholder="email address" required=""/>
