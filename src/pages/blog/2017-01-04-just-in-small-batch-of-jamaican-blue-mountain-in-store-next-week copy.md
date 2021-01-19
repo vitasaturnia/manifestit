@@ -18,4 +18,8 @@ tags:
   - SEO
   - Marketing
 ---
-...
+![](/img/importance-of-website-statistics.jpg "waaromeengoedewebsitebelangrijkisafbeelding")
+
+
+
+\...
