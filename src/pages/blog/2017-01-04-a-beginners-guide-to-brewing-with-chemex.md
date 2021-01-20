@@ -13,6 +13,22 @@ tags:
   - Ondernemerschap
   - Website
 ---
+
+
 ![](/img/grow-your-company-better-and-faster-with-sap-business-bydesign-webinar.jpg "bedrijfsgroeiafbeelding")
 
-.....
+\-Een goede website
+
+\-Een goede branding
+
+\-Goede SEO gewoontes op uw website
+
+\-Een goede marketingstrategie en analyse
+
+\-Email marketing
+
+\-Adverteren
+
+\-Social Media
+
+\-Gebruik een sales funnel
