@@ -18,8 +18,16 @@ tags:
   - SEO
   - Marketing
 ---
+Wist u dat 93% van alle klanten eerst online onderzoek doet voordat ze iets aanschaffen?
+
+En dan 75% van de mensen een bedrijf beoordeelt op basis van hun website?
+
+Dit zijn punten waar je als ondernemer 100% op in zou moeten spelen.
+
+Goede naamsbekendheid begint natuurlijk met goede branding, maar wat heeft die branding nou voor zin als uw website sloom, onintuïtief, of visueel onaantrekkelijk is.
+
+
+
 ![](/img/importance-of-website-statistics.jpg "waaromeengoedewebsitebelangrijkisafbeelding")
-
-
 
 ...
