@@ -18,18 +18,18 @@ tags:
   - SEO
   - Marketing
 ---
+![](/img/Importance-of-Website-Statistics.jpg)
+
 Wist u dat 93% van alle klanten eerst online onderzoek doet voordat ze iets aanschaffen?
 
-En dan 75% van de mensen een bedrijf beoordeelt op basis van hun website?
+De tijden van telefoonboeken zijn voorbij. Als iemand tegenwoordig informatie wilt over een bedrijf is de kans groot dat ze dat bedrijf even op internet opzoeken.
+
+En wist u dat 75% van de mensen een bedrijf beoordeelt op basis van hun website?
 
 Dit zijn punten waar je als ondernemer 100% op in zou moeten spelen.
 
-Goede naamsbekendheid begint natuurlijk met goede branding, maar wat heeft die branding nou voor zin als uw website sloom, onintuïtief, of visueel onaantrekkelijk is.
+De eerste indruk van een website is ook van groot belang. Want wist u dat 38% van de mensen een website stopt met browsen als de website onaantrekkelijk is?
 
+Goede naamsbekendheid begint natuurlijk met goede branding, maar wat heeft die branding nou voor zin als uw website sloom, onintuïtief, of visueel onaantrekkelijk is?
 
-
-
-
-![](/img/importance-of-website-statistics.jpg "waaromeengoedewebsitebelangrijkisafbeelding")
-
-...
+Het is daarom essentieel als ondernemer om een snelle, mooie, en goed vindbare website te hebben.  En vanuit daar openen er weer nieuwe wegen, zoals het converteren van uw website bezoekers naar leads en conversions. Maar daar leest u meer over in de aankomende artikelen.
