@@ -18,6 +18,8 @@ tags:
   - SEO
   - Marketing
 ---
+![](/img/Importance-of-Website-Statistics.jpg)
+
 Wist u dat 93% van alle klanten eerst online onderzoek doet voordat ze iets aanschaffen?
 
 De tijden van telefoonboeken zijn voorbij. Als iemand tegenwoordig informatie wilt over een bedrijf is de kans groot dat ze dat bedrijf even op internet opzoeken.
